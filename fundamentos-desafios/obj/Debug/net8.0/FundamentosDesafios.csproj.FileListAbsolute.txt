@@ -1,0 +1,14 @@
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\bin\Debug\net8.0\FundamentosDesafios.exe
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\bin\Debug\net8.0\FundamentosDesafios.deps.json
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\bin\Debug\net8.0\FundamentosDesafios.runtimeconfig.json
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\bin\Debug\net8.0\FundamentosDesafios.dll
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\bin\Debug\net8.0\FundamentosDesafios.pdb
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\FundamentosDesafios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\FundamentosDesafios.AssemblyInfoInputs.cache
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\FundamentosDesafios.AssemblyInfo.cs
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\FundamentosDesafios.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\FundamentosDesafios.dll
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\refint\FundamentosDesafios.dll
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\FundamentosDesafios.pdb
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\FundamentosDesafios.genruntimeconfig.cache
+E:\Desenvolvimento\backend\dotnet\estudo\FundamentosDesafios\fundamentos-desafios\obj\Debug\net8.0\ref\FundamentosDesafios.dll
